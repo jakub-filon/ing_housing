@@ -59,3 +59,6 @@ for model_name, model in models.items():
 
     print(f'{model_name} R2: {r2:.4f}, MAPE: {mape:.2f}%')
     print(f'{model_name} saved to models/{model_name}_pipeline.joblib')
+    
+    
+    #plus ammenities 
